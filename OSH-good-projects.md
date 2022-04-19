@@ -11,7 +11,7 @@ Contribute with your suggestions in this file.
 - Pine64: https://www.pine64.org/
 - CERN: https://ohwr.org/welcome
 - Safecast: https://safecast.org/
-- Arduino: https://safecast.org/
+- Arduino: https://www.arduino.cc/
 - Framework Laptop: https://frame.work/gb/en
 - FarmBot: https://farm.bot/
 - Open Source Ecology: https://www.opensourceecology.org/
