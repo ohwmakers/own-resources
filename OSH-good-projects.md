@@ -4,7 +4,6 @@ Contribute with your suggestions in this file.
 
 - Sparkfun: https://www.sparkfun.com/
 - Adafruit: https://www.adafruit.com/
-- OpenTrons: https://opentrons.com/
 - Olimex: https://www.olimex.com/
 - IO Rodeo: https://iorodeo.com/
 - System76: https://system76.com/
@@ -17,3 +16,4 @@ Contribute with your suggestions in this file.
 - Open Source Ecology: https://www.opensourceecology.org/
 - Open Funk: https://www.openfunk.co/
 - Glia: https://glia.org/
+- OpenFlexure: https://openflexure.org
